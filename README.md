@@ -1,2 +1,2 @@
 # Tourney
-Tournament brackets generator
+Tournament brackets generator.
